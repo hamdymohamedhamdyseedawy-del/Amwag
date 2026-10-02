@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أمواج - Amwag Perfumes</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f9f9f9; color: #333; margin: 0; padding: 0; text-align: center; }
+        header { background-color: #1a1a1a; color: #fff; padding: 30px 20px; }
+        h1 { margin: 0 0 10px 0; font-size: 28px; color: #d4af37; }
+        .container { max-width: 800px; margin: 20px auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+        .section { margin-bottom: 25px; text-align: right; padding: 0 15px; }
+        .section h2 { border-bottom: 2px solid #d4af37; padding-bottom: 5px; color: #333; font-size: 20px; }
+        .product-list { display: flex; flex-direction: column; gap: 10px; }
+        .product-item { background: #fdfdfd; border: 1px solid #eee; padding: 12px 15px; border-radius: 6px; }
+        .contact-info { background: #f4f4f4; padding: 15px; border-radius: 6px; text-align: right; font-weight: bold; }
+        footer { margin-top: 30px; padding: 15px; color: #777; font-size: 14px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>أمواج (Amwag)</h1>
+        <p>عطور أصلية ومميزة لكافة الأذواق</p>
+    </header>
+
+    <div class="container">
+        
+        <div class="section">
+            <h2>معلومات التواصل</h2>
+            <div class="contact-info">
+                <p>📍 العنوان الرئيسي: المنطقة الاستثمارية</p>
+                <p>📞 رقم الهاتف: 01042468916</p>
+                <p>🌐 الموقع الإلكتروني: amwag.com</p>
+                <p>⏰ ساعات العمل: من الجمعة للخميس (10:00 صباحاً - 10:00 مساءً)</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>تشكيلة العطور المميزة</h2>
+            <div class="product-list">
+                <div class="product-item">
+                    <strong>✨ باكاروت روج (Baccarat Rouge):</strong> عطر فاخر غني عن التعريف يتميز بتركيبته الفريدة والثبات العالي والعبير الجذاب.
+                </div>
+                <div class="product-item">
+                    <strong>✨ مسك أبيض (White Musk):</strong> عطر كلاسيكي نقي ونظيف يتميز برائحته الهادئة والثابتة، ويُستخدم كأحد الأساسيات العطرية المحبوبة.
+                </div>
+                <div class="product-item">
+                    <strong>✨ عطر Bm:</strong> عطر عصري مميز تم إضافته ضمن تشكيلة العطور الخاصة بالمتجر لتلبية مختلف الأذواق.
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        جميع الحقوق محفوظة لمحل أمواج للعطور &copy; 2026
+    </footer>
+
+</body>
+</html>
